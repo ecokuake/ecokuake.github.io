@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ecokuake.github.io/CBf/sitemap_index.txt
+Sitemap: https://ecokuake.github.io/MnO/sitemap_index.txt
+Sitemap: https://ecokuake.github.io/XFG/sitemap_index.txt
+Sitemap: https://ecokuake.github.io/nCO/sitemap_index.txt
